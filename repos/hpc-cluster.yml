@@ -1,0 +1,72 @@
+hpc-cluster:
+  ami-iit/sw-dev:
+    type: "group"
+    permissions: "triage"
+    
+  hsp-iit/sw-dev:
+    type: "group"
+    permissions: "triage"
+    
+  edpr-iit/sw-dev:
+    type: "group"
+    permissions: "triage"
+    
+  diegoferigo:
+    type: "user"
+    permissions: "write"
+    
+  GiuliaP:
+    type: "user"
+    permissions: "write"
+    
+  xEnVrE:
+    type: "user"
+    permissions: "triage"
+    
+  damianomal:
+    type: "user"
+    permissions: "triage"    
+    
+  cyberseawolf:
+    type: "user"
+    permissions: "read"
+
+  Arya07:
+    type: "user"
+    permissions: "triage"
+    
+  fedeceola:
+    type: "user"
+    permissions: "triage"
+    
+  andreamaracani:
+    type: "user"
+    permissions: "triage"
+    
+  FedericoVasile1:
+    type: "user"
+    permissions: "triage"
+    
+  miccol:
+    type: "user"
+    permissions: "triage"
+    
+  StefanoBerti:
+    type: "user"
+    permissions: "triage"
+    
+  gabrielecaddeo:
+    type: "user"
+    permissions: "triage"
+    
+  andrearosasco:
+    type: "user"
+    permissions: "triage"
+
+  yuriyOn:
+    type: "user"
+    permissions: "triage"  
+  
+  fbottarel:
+    type: "user"
+    permissions: "triage"  

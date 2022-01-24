@@ -1,4 +1,4 @@
-AI-racing-object-tracking-deepracer:
+AI-racing-object-tracking:
   2022_intern/hw_planning:
     type: "group"
     permissions: "read"
@@ -10,3 +10,4 @@ AI-racing-object-tracking-deepracer:
   2022_intern/object-tracking:
     type: "group"
     permissions: "write"
+

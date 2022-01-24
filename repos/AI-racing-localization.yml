@@ -1,11 +1,11 @@
-AI-racing-HW-deepracer: 
+AI-racing-localization:
   2022_intern/hw_planning:
     type: "group"
-    permissions: "write"
+    permissions: "read"
 
   2022_intern/localization:
     type: "group"
-    permissions: "read"
+    permissions: "write"
 
   2022_intern/object-tracking:
     type: "group"

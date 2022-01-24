@@ -1,4 +1,4 @@
-AI-racing-path-planning:
+AI-racing-planning:
   2022_intern/hw_planning:
     type: "group"
     permissions: "write"

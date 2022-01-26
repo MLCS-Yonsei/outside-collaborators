@@ -1,0 +1,4 @@
+AI-racing:
+  2022_intern/localization:
+    type: "group"
+    permissions: "read"
